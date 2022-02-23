@@ -1,6 +1,6 @@
 {
 "schools":[
-  {"name":"alpha", "address":"US"},
-  {"name":"gt-school", "address":"Canada"}
+  {"id":"alpha", "address":"US"},
+  {"id":"gt-school", "address":"Canada"}
 ]
 }
