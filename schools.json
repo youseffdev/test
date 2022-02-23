@@ -1,0 +1,6 @@
+{
+"schools":[
+  {"name":"alpha", "address":"US"},
+  {"name":"gt-school", "address":"Canada"},
+]
+}
